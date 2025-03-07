@@ -17,7 +17,7 @@ git clone https://github.com/Abiyu-Dev/Python-Compiler-Using-Django.git
 2. cd into the directory
 
 ``` bash
-cd Python-Compiler-Using-Django/compiler
+cd event-management-system/compiler
 
 ```
 
@@ -45,3 +45,4 @@ python manage.py runserver
 # Demo
 
 
+![Image](https://github.com/user-attachments/assets/940b1143-85c0-4702-8410-78e7cec77148)
